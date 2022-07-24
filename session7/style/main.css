@@ -1,0 +1,22 @@
+.linecateg{
+border:1px solid black;
+width:fit-content;
+
+}
+
+.form-check{
+  margin:40px 100px 40px 60px;
+}
+
+.dateip input{
+display:block;
+margin:5px 40px 20px 40px;
+}
+.body1{
+
+    border : 1px solid black;
+    margin-bottom:20px;
+}
+.form-check-input{
+    margin-right:20px;
+}
